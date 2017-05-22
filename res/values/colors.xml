@@ -20,8 +20,8 @@
     <color name="material_pixel_blue_bright">@*android:color/material_pixel_blue_bright</color>
     <!-- <color name="mmaterial_pixel_blue_bright">#ff4285f4</color> -->
     <!-- <color name="tab_color">@color/material_pixel_blue_bright</color> -->
-    <!-- <color name="material_blue_grey_900">#ff263238</color> -->
-    <color name="material_blue_grey_900">@*android:color/material_blue_grey_900</color>
+    <!-- <color name="material_pixel_blue_dark">#ff2a2c31</color> -->
+    <color name="material_pixel_blue_dark">@*android:color/material_pixel_blue_dark</color>
 
 
     <!-- new -->
